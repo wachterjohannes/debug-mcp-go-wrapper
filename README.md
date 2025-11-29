@@ -2,8 +2,6 @@
 
 **⚠️ PROTOTYPE - FOR TESTING AND DISCUSSION PURPOSES ONLY**
 
-**This repository contains only bootstrap files and documentation. No actual implementation code is included. This is a prototype to facilitate discussion and planning for the Go wrapper architecture.**
-
 ---
 
 Go process manager and proxy for the debug-mcp PHP MCP server, providing automatic process restarts with memory isolation.
